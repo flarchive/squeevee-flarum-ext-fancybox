@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of squeevee/flarum-ext-fancybox.** Not for installation: use [Packagist](https://packagist.org/packages/squeevee/flarum-ext-fancybox) or the [upstream repository](https://github.com/squeevee/flarum-ext-fancybox).
 
-**0** versions archived · Latest: [`0.2-beta`](https://github.com/flarchive/squeevee-flarum-ext-fancybox/tree/archive/v0.2-beta) · License: `GPL-3.0-or-later` · Flarum: `^0.1.0-beta.8`
+**2** versions archived · Latest: [`0.2-beta`](https://github.com/flarchive/squeevee-flarum-ext-fancybox/tree/archive/v0.2-beta) · License: `GPL-3.0-or-later` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1-beta` | 2019-04-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/squeevee-flarum-ext-fancybox/tree/archive/v0.1-beta) |
+| `0.2-beta` | 2019-05-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/squeevee-flarum-ext-fancybox/tree/archive/v0.2-beta) |
 
 Catalog entry: [packages/squeevee-flarum-ext-fancybox.json](https://github.com/flarchive/archive-index/blob/main/packages/squeevee-flarum-ext-fancybox.json)
 
